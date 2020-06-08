@@ -23,10 +23,10 @@ kramdown:
   math_engine: katex
   input: GFM
   auto_ids: true
-  syntax_highlighter: rouge
 highlighter: rouge  
 sass:
   style: compressed
+
 # Other options
 
 permalink: blog/:title
